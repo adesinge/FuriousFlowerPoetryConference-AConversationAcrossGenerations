@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-08-14T10:07:24.715Z",
+  "created_by": "adesinge",
+  "title": "Conference Opening Remarks",
+  "slug": "conference-opening-remarks",
+  "updated_at": "2025-08-14T10:07:24.715Z",
+  "updated_by": "adesinge",
+  "parent": "4c412da1-b187-486d-bbe8-ef86e33419ae",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "890733ab-9acc-423a-8bc2-1cab75cb1ab3"
+  }
+}
