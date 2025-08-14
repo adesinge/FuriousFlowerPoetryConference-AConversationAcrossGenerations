@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "adesinge",
+    "is_private": false,
+    "title": "Furious Flower Poetry Archive: A Conversation Across Generations",
+    "description": "In 1994, Dr. Joanne Gabbin, brought Gwendolyn Brooks, the first African American poet to ever win the Pulitzer Prize to James Madison University for the first edition of the Furious Flower Poetry Conference. That historic gathering changed the possibilities of poetry in the United States, especially poetic activity centering and emerging from the African and African American experience. Through iterations and reenactments for over three decades (2004, 2014, and 2024), the conference has  a cultural, spiritual, and intellectual touchstone and one of the most significant gatherings of Black poets from all over the world. At this historic once-in-a-decade gathering, some of the most compelling performances and conversations in the world of Black poetry take place across generations and continents. This project will analyze and annotate some of these conversations to help students develop their critical thinking and literary analysis skills set as well as their comprehension of American history through American poetry, and a deeper more fulfilling relationship with the life force of literature.",
+    "language": "en",
+    "slug": "FuriousFlowerPoetryConference-AConversationAcrossGenerations",
+    "creator": "adesinge",
+    "authors": "Gbenga Adesina",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-08-14T09:08:18.291Z",
+    "updated_at": "2025-08-14T09:08:18.291Z"
   }
 }
