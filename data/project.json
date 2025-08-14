@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "adesinge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220702823?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "adesinge",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-08-14T09:08:18.291Z",
-    "updated_at": "2025-08-14T09:08:18.291Z"
-  }
+    "updated_at": "2025-08-14T09:08:18.291Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "4c412da1-b187-486d-bbe8-ef86e33419ae": {
+      "content": [],
+      "created_at": "2025-08-14T09:08:18.313Z",
+      "created_by": "adesinge",
+      "title": "Furious Flower Poetry Archive: A Conversation Across Generations",
+      "updated_at": "2025-08-14T09:08:18.313Z",
+      "updated_by": "adesinge",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "4c412da1-b187-486d-bbe8-ef86e33419ae"
+  ]
 }
